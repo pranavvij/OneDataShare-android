@@ -1,6 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="nav_color">#E8EAF6</color>
+    <color name="nav_header">#3F51B5</color>
+    <color name="colorLoginTextHint">#BBFFFFFF</color>
+    <color name="colorForgotPWDTextHint">#BBFFFFFF</color>
+
+    <color name="colorLoginBtn">#E6E4D4</color>
+    <color name="colorAccent">#e46500</color>
+    <color name="downloadColor">#99000000</color>
+    <color name="colorHowToBG">#5a2a0c</color>
+
+    <color name="university_selection_color">#89BBF4</color>
+    <color name="whatsapp_color">#B8E986</color>
+    <color name="sop_and_lor_color">#FFD788</color>
+    <color name="discussion_color">#BDA9FF</color>
+    <color name="training_material_color">#FFA3AF</color>
+
+    <color name="college_year_color">#4A90E2</color>
+    <color name="uni_background_color">#FBFBFB</color>
+    <color name="white">#ffffff</color>
+    <color name="colorRecyclerFileUpload">#F6F6F6</color>
+    <color name="colorFileSizeUpload">#999999</color>
+
+    <color name="colorHowToUseBG">#585858</color>
+
+    <color name="login_color">#50E3C2</color>
+    <color name="colorCompletionBG">#FFFECE</color>
+    <color name="colorProgressTrack">#100904</color>
+    <color name="colorModuleProgressCount">#159739</color>
+    <color name="colorCourseSectionBG">#f0f2f5</color>
+    <color name="colorResumeProgramDivider">#DEDEDE</color>
+
+    <color name="colorHandoutsTypeBG">#F8F8F8</color>
+    <color name="whatsappDarkColor">#777777</color>
+    <color name="colorCertificateName">#555555</color>
+    <color name="colorCertificateView">#0099ff</color>
+    <color name="colorCertificateViewDivider">#eaeaea</color>
+    <color name="header_color">#646464</color>
+    <color name="colorProgramAssignedName">#555555</color>
+    <color name="colorProgramAssignedRank">#0099ff</color>
+    <color name="colorProgramAssignedRankTitle">#1d1d26</color>
+    <color name="colorProgramAssignedProgressText">#1d1d26</color>
+    <color name="colorProgramAssignedProgressBg">#e1e1e1</color>
+    <color name="colorProgramAssignedProgressCompleted">#0099ff</color>
+    <color name="colorProgramAssignedProgressScored">#a5ea00</color>
+    <color name="colorProgramAssignedProgressCertificates">#ffbe58</color>
+
+    <color name="colorProfileBottomSheetHeader">#828282</color>
+    <color name="colorProfileCertificateView">#fff500</color>
+    <color name="colorProfileMedalGold">#ffd782</color>
+    <color name="colorProfileMedalSilver">#aeaeae</color>
+    <color name="colorProfileMedalBronze">#F6BD4E</color>
+    <color name="colorProfileAchievementText">#555555</color>
+    <color name="colorProfileAchievementBg">#f9f9f9</color>
+    <color name="colorProfileEmail">#a5a5a5</color>
+    <color name="colorProfileName">#555555</color>
+    <color name="colorProfileHeader">#0099ff</color>
+    <color name="colorProfileGrey">#828282</color>
+
+    <color name="black">#FF000000</color>
+    <color name="colorTrainees">#d75918</color>
+    <color name="colorSectionGrey">#e9e9e9</color>
+    <color name="colorLeaderboardDivider">#00000000</color>
+
+    <color name="colorLockedBGNew">#EEFFFFFF</color>
+    <color name="colorLockedBGLine">#D5D5D5</color>
+    <color name="colorExpiredBg">#FF7373</color>
+    <color name="colorTimerTextBg">#F3F3F3</color>
+    <color name="colorTimerText">#777777</color>
+    <color name="colorTimerDayBlue">#0099FF</color>
+    <color name="colorTimerDayRed">#FF7373</color>
+    <color name="colorArticleBG">#D9CC9F</color>
+    <color name="colorDialogBg">#80000000</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="colorBand">#e45e28</color>
+    <color name="colorWhiteShadow">#99FFFFFF</color>
+    <color name="colorSearchHint">#cccccc</color>
+    <color name="colorArticleHeading">#585858</color>
+    <color name="colorArticleDesc">#010101</color>
+    <color name="colorLightGray">#E3E3E3</color>
+    <color name="colorBlackShadow">#99000000</color>
+    <color name="colorBlackShadowLight">#44ffffff</color>
+    <color name="colorQuizQuestion">#000000</color>
+    <color name="colorQuizBtnDeselect">#cccccc</color>
+    <color name="colorQuizBtnDisable">#eeeeee</color>
+
+    <color name="colorNotifRead">#FFFFFF</color>
+    <color name="colorNotifUnRead">#E5F6FD</color>
+
+    <color name="colorQuizBtnSelect">#4CAF50</color>
+    <color name="colorQuizBtnBlueSelect">#000099</color>
+    <color name="colorQuizBtnWrong">#E53935</color>
+
+    <color name="color_grey_aboutus">#E7E7E7</color>
+    <color name="colorDrawerText">#828282</color>
+    <color name="colorDrawerDivider">#CCCCCC</color>
+    <color name="colorProgramBg">#F3F3F3</color>
+    <color name="colorModuleBg">#F3F3F3</color>
+    <color name="colorResumeRecyclerViewBg">#E0E0E0</color>
+    <color name="colorNumDivider">#8B8B8B</color>
+    <color name="colorVPNotSelectedDot">#CCCCCC</color>
+    <color name="colorVPSelectedDot">#0078AC</color>
+    <color name="colorNumText">#1A1A1A</color>
+    <color name="colorNumType">#8B8B8B</color>
+    <color name="colorProgress">#2d6930</color>
+    <color name="colorProgressBG">#81a582</color>
+    <color name="colorCCProgress">#2d6930</color>
+    <color name="colorCCProgressBG">#66000000</color>
+    <color name="colorCWProgress">#db3236</color>
+    <color name="colorBottomSheetCache">#585858</color>
+    <color name="colorQuizBtnAttempt">#585858</color>
+    <color name="colorOverlay">#00000000</color>
+    <color name="colorCourseDialogOverlay">#66000000</color>
+
+    <color name="colorQuizBtnMtfOverlay">#99000000</color>
+
+    <color name="colorProgramProgressBG">#C6EED0</color>
+    <color name="colorProgramProgress">#1FCA3E</color>
+    <color name="colorArticleProgress">#ee8434</color>
+    <color name="colorModuleProgressBG">#d6d6d6</color>
+    <color name="colorModuleProgress">#1FCA3E</color>
+    <color name="colorArticleProgressBG">#d6d6d6</color>
+    <color name="colorLockedBG">#33000000</color>
+
+    <color name="colorMCQImageSelectBG">#994CAF50</color>
+    <color name="colorMCQImageWrongBG">#99E53935</color>
+
+    <color name="colorDownloadingGrayBG">#f6f6f6</color>
+    <color name="colorEvaluationGray">#767676</color>
+    <color name="colorAccordionGray">#E7E7E7</color>
+    <color name="colorDiscussionBG">#E7E7E7</color>
+    <color name="colorDownloadStart">#38A700</color>
+    <color name="colorVideoMediaController">#CC000000</color>
+
+    <color name="colorArticleBannerIndicatorFill">#e46500</color>
+    <color name="colorArticleBannerIndicatorPage">#767676</color>
+
+    <color name="colorDiscussAwaitingApproval">#FFCC00</color>
+    <color name="colorDiscussDesc">#808080</color>
+    <color name="colorDiscussName">#696969</color>
+    <color name="colorLeaderboardHighlights">#696969</color>
+    <color name="colorLeaderboardName">#696969</color>
+
+    <color name="colorModuleFail">#fd6868</color>
+    <color name="colorModuleIncomplete">#fdce68</color>
+
+    <color name="demo_light_transparent">#16000000</color>
+
+    <color name="filter_green">#7ED321</color>
+    <color name="black_overlay">#11000000</color>
+    <color name="text_color">#a7a7a7</color>
+    <color name="lor_color">#F5A623</color>
+    <color name="default_doc_color">#9B9B9B</color>
+    <color name="address_color">#1A416D</color>
 </resources>

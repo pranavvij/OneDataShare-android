@@ -1,0 +1,52 @@
+<resources>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin8dp">8dp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="margin3dp">3dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">125dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="item_offset">20dp</dimen>
+    <dimen name="search_icon_padding">12dp</dimen>
+    <dimen name="search_view_text_padding">65dp</dimen>
+    <dimen name="default_size">12dp</dimen>
+    <dimen name="spacing">5dp</dimen>
+    <dimen name="spacing_resume">10dp</dimen>
+    <dimen name="button_corner_radius">4dp</dimen>
+
+    <dimen name="button_radius_top_performers">30dp</dimen>
+
+
+    <!-- dimensions -->
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="twodp">2dp</dimen>
+    <dimen name="fivedp">5dp</dimen>
+    <dimen name="tendp">10dp</dimen>
+    <dimen name="twentydp">20dp</dimen>
+    <dimen name="thirtydp">30dp</dimen>
+    <dimen name="fourtydp">40dp</dimen>
+    <dimen name="fiftydp">50dp</dimen>
+
+    <!-- dimensions for views -->
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="toolbar_height">40dp</dimen>
+    <dimen name="alert_title_text">15sp</dimen>
+    <dimen name="alert_radius">5dp</dimen>
+    <!-- dimensions text size-->
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+    <dimen name="large_text">23sp</dimen>
+    <dimen name="xlarge_text">27sp</dimen>
+    <dimen name="xxlarge_text">33sp</dimen>
+
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="placeholder_image">50dp</dimen>
+    <dimen name="placeholder_text_height">8dp</dimen>
+    <dimen name="activity_padding_horizontal">16dp</dimen>
+
+</resources>
