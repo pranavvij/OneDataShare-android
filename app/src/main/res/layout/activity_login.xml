@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/thirtydp"
+        android:layout_marginRight="@dimen/thirtydp"
+        android:layout_marginTop="@dimen/thirtydp"
+        android:orientation="vertical">
+
+        <com.onedatashare.com.onedatashare.Views.OdsTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/welcome_back"
+            android:textColor="@color/black"
+            android:textSize="@dimen/large_text" />
+
+        <com.onedatashare.com.onedatashare.Views.OdsBoldTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/thirtydp"
+            android:text="@string/login_with"
+            android:textColor="@color/black"
+            android:textSize="@dimen/medium_text" />
+
+        <com.onedatashare.com.onedatashare.Views.OdsEdiText
+            android:id="@+id/etemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/twentydp"
+            android:hint="@string/email"
+            android:textColor="@color/black"
+            android:textSize="@dimen/medium_text" />
+
+        <com.onedatashare.com.onedatashare.Views.OdsEdiText
+            android:id="@+id/etpassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/tendp"
+            android:hint="@string/password"
+            android:textColor="@color/black"
+            android:textSize="@dimen/medium_text" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/twentydp"
+            android:text="@string/login"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/medium_text" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/thirtydp"
+            android:orientation="horizontal">
+
+            <com.onedatashare.com.onedatashare.Views.OdsBoldTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/need_an_account"
+                android:textColor="@color/black"
+                android:textSize="@dimen/medium_text" />
+
+            <com.onedatashare.com.onedatashare.Views.OdsBoldTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/tendp"
+                android:text="@string/sign_up"
+                android:textColor="@color/colorTimerDayRed"
+                android:textSize="@dimen/medium_text" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

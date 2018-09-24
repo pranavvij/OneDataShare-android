@@ -1,4 +1,4 @@
-package com.onedatashare.com.onedatashare;
+package com.onedatashare.com.onedatashare.AppUtils;
 
 import android.app.Application;
 
