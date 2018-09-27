@@ -1,4 +1,4 @@
-package com.onedatashare.com.onedatashare.Views;
+package com.onedatashare.com.onedatashare.views;
 
 
 import android.content.Context;

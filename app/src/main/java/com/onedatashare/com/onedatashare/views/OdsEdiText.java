@@ -1,8 +1,7 @@
-package com.onedatashare.com.onedatashare.Views;
+package com.onedatashare.com.onedatashare.views;
 
 import android.content.Context;
 import android.graphics.Typeface;
-import android.widget.EditText;
 
 public class OdsEdiText extends android.support.v7.widget.AppCompatEditText {
     public OdsEdiText(Context context) {

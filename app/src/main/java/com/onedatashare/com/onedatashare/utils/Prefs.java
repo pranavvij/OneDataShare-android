@@ -1,4 +1,4 @@
-package com.onedatashare.com.onedatashare.Utils;
+package com.onedatashare.com.onedatashare.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

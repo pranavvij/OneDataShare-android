@@ -1,9 +1,8 @@
 package com.onedatashare.com.onedatashare;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.onedatashare.com.onedatashare.AppUtils.BaseActivity;
+import com.onedatashare.com.onedatashare.appUtils.BaseActivity;
 
 public class LoginActivity extends BaseActivity {
 
